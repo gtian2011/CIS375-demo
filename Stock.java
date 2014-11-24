@@ -2,6 +2,7 @@
    The Stock class holds data about a stock.
 */
 
+//this is a local copy. I modified the comments
 public class Stock
 {
    private String symbol;     // Trading symbol of stock
